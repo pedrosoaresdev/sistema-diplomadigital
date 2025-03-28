@@ -67,6 +67,8 @@ O projeto está atualmente em **desenvolvimento**. As funcionalidades principais
 ## Representação do armazenamento
 As informações dos diplomas, incluindo o código de validação, no banco de dados:
 
-id  	nome_aluno	      curso	         carga_horaria   	   data_emissao	       codigo_validacao
-1  	João da Silva	  Desenvolvimento Web 	 80	              2025-03-28   	E1A3F5G2H9-J7D3K0L5M8N9P1
-2  	Maria Oliveira  	Design Gráfico	     60  	            2025-03-29    	A7C3F1G9H4-J9E3K0M7N9O2
+| **ID** | **Nome do Aluno**   | **Curso**             | **Carga Horária** | **Data de Emissão** | **Código de Validação**            |
+|--------|---------------------|-----------------------|-------------------|---------------------|------------------------------------|
+| 1      | João da Silva       | Desenvolvimento Web   | 80                | 2025-03-28          | E1A3F5G2H9-J7D3K0L5M8N9P1         |
+| 2      | Maria Oliveira      | Design Gráfico        | 60                | 2025-03-29          | A7C3F1G9H4-J9E3K0M7N9O2           |
+
