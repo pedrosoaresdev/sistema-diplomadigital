@@ -55,11 +55,6 @@ O sistema será desenvolvido utilizando as seguintes tecnologias:
 - **Banco de Dados**:
   - **PostgreSQL**: Banco de dados relacional que será utilizado para armazenar dados sobre cursos, alunos, e diplomas.
 
-- **Outras Tecnologias**:
-  - **Docker**: Para garantir que o ambiente de desenvolvimento seja replicável e para facilitar o deploy em diferentes ambientes.
-  - **JUnit**: Para testes unitários no back-end, garantindo que a lógica de negócios funcione corretamente.
-  - **AWS S3**: Para armazenamento de arquivos como os PDFs dos diplomas gerados.
-
 ## Status do Projeto
 
 O projeto está atualmente em **desenvolvimento**. As funcionalidades principais estão sendo implementadas, e a primeira versão está prevista para lançamento dentro de algumas semanas. Ainda existem algumas funcionalidades a serem finalizadas, como a validação de diplomas e o envio automático de e-mails, mas o desenvolvimento está progredindo bem.
