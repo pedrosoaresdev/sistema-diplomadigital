@@ -64,6 +64,6 @@ As informações dos diplomas, incluindo o código de validação, no banco de d
 
 | **ID** | **Nome do Aluno**   | **Curso**             | **Carga Horária** | **Data de Emissão** | **Código de Validação**            |
 |--------|---------------------|-----------------------|-------------------|---------------------|------------------------------------|
-| 1      | João da Silva       | Desenvolvimento Web   | 80                | 2025-03-28          | E1A3F5G2H9-J7D3K0L5M8N9P1         |
-| 2      | Maria Oliveira      | Design Gráfico        | 60                | 2025-03-29          | A7C3F1G9H4-J9E3K0M7N9O2           |
+| 1      | Joaquim Romão       | Desenvolvimento Web   | 80                | 2025-03-28          | E1A3F5G2H9-J7D3K0L5M8N9P1         |
+| 2      | Marina Lucena      | Design Gráfico        | 60                | 2025-03-29          | A7C3F1G9H4-J9E3K0M7N9O2           |
 
